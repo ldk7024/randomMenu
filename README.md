@@ -34,3 +34,9 @@ This project is deployed with GitHub Pages.
 ## Disclaimer
 
 This is a personal demo project and does not include any proprietary or confidential source code.
+
+## Future Improvements
+
+- Add category-based menu filtering
+- Improve mobile UI
+- Add export/import menu data feature
