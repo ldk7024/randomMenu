@@ -45,3 +45,10 @@ This is a personal demo project and does not include any proprietary or confiden
 
 - v1.0.0: Initial random menu recommendation web app
 - v1.1.0: Added README documentation and future improvement plan
+
+## Usage
+
+1. Open the Random Menu app.
+2. Add menu items you want to recommend.
+3. Click the random recommendation button.
+4. Check the recommended menu.
