@@ -40,3 +40,8 @@ This is a personal demo project and does not include any proprietary or confiden
 - Add category-based menu filtering
 - Improve mobile UI
 - Add export/import menu data feature
+
+## Version History
+
+- v1.0.0: Initial random menu recommendation web app
+- v1.1.0: Added README documentation and future improvement plan
